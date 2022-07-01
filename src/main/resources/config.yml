@@ -1,0 +1,9 @@
+FishItems:
+  - 8-diamond
+  - 64-redstone
+  - 1-nether_star
+  - 16-gold_ingot
+  - 32-iron_ingot
+  # - (Amount)-(Raw Item Name)
+Main:
+  prefix: §b§lTijnn§f§l.Dev =>
